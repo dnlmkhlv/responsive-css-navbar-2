@@ -6,3 +6,5 @@ A lightweight, customizable navbar component built with HTML and CSS, designed t
 - Mobile-friendly with a hamburger menu on smaller screens
 - Smooth transitions for menu items
 - Easy to customize and integrate into existing projects
+
+#### Made with love by Daniil ❤️
