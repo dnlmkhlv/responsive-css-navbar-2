@@ -1,4 +1,4 @@
-## Responsive CSS Navbar
+## Responsive CSS Navbar with Menu (on mobile devices)
 A lightweight, customizable navbar component built with HTML and CSS, designed to be responsive across various screen sizes.
 
 ### Features
